@@ -1,7 +1,7 @@
 /*const Form = () => {
   return (
     <form action="">
-            <label>Nombre</label>
+            <label>Nome</label>
             <input type="text" />
             <label > Animal6letras</label>
             <input type="text" />
